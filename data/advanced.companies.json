@@ -1,0 +1,240 @@
+[
+  {
+    "company_name": "KAYA LAND & BUILDING SURVEYORS LTD",
+    "company_number": "12994719A",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/12994719"
+    },
+    "date_of_creation": "2020-11-03",
+    "registered_office_address": {
+      "address_line_1": "74 A High Street",
+      "address_line_2": "Wanstead",
+      "locality": "London",
+      "postal_code": "E11 2RJ",
+      "country": "England"
+    },
+    "sic_codes": [
+      "43999"
+    ]
+  },
+  {
+    "company_name": "KAYA LAND BUILDING SURVEYORS LTD",
+    "company_number": "12994719B",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/12994719"
+    },
+    "date_of_creation": "2020-11-03",
+    "registered_office_address": {
+      "address_line_1": "74 A High Street",
+      "address_line_2": "Wanstead",
+      "locality": "London",
+      "postal_code": "E11 2RJ",
+      "country": "England"
+    },
+    "sic_codes": [
+      "43999"
+    ]
+  },
+  {
+    "company_name": "ROUND SHOT LIMITED",
+    "company_number": "12997882",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/12997882"
+    },
+    "date_of_creation": "2020-11-04",
+    "registered_office_address": {
+      "address_line_1": "23 The Warren Drive",
+      "address_line_2": "Wanstead",
+      "locality": "London",
+      "postal_code": "E11 2LR",
+      "country": "England"
+    },
+    "sic_codes": [
+      "70229"
+    ]
+  },
+  {
+    "company_name": "FORTUNE AND COATES LTD",
+    "company_number": "13025282",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13025282"
+    },
+    "date_of_creation": "2020-11-17",
+    "registered_office_address": {
+      "address_line_1": "Cambridge House",
+      "address_line_2": "27 Cambridge Park",
+      "locality": "Wanstead",
+      "postal_code": "E11 2PU",
+      "region": "London",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "68310"
+    ]
+  },
+  {
+    "company_name": "AM MERCHANTS LTD",
+    "company_number": "13028018",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13028018"
+    },
+    "date_of_creation": "2020-11-18",
+    "registered_office_address": {
+      "address_line_1": "74 A High Street",
+      "address_line_2": "Wanstead",
+      "locality": "London",
+      "postal_code": "E11 2RJ",
+      "region": "England",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "46900",
+      "47190"
+    ]
+  },
+  {
+    "company_name": "EA SALES CONSULTANCY LTD",
+    "company_number": "13057302",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13057302"
+    },
+    "date_of_creation": "2020-12-02",
+    "registered_office_address": {
+      "address_line_1": "74 A High Street",
+      "address_line_2": "Wanstead",
+      "locality": "London",
+      "postal_code": "E11 2RJ",
+      "country": "England"
+    },
+    "sic_codes": [
+      "70229"
+    ]
+  },
+  {
+    "company_name": "SPECTACLE ATELIER LIMITED",
+    "company_number": "13058531",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13058531"
+    },
+    "date_of_creation": "2020-12-02",
+    "registered_office_address": {
+      "address_line_1": "8 Station Parade",
+      "address_line_2": "High Street Wanstead",
+      "locality": "London",
+      "postal_code": "E11 1QF",
+      "country": "England"
+    },
+    "sic_codes": [
+      "47782",
+      "86900"
+    ]
+  },
+  {
+    "company_name": "FLORENTIN CONSULTING LTD",
+    "company_number": "13056871",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13056871"
+    },
+    "date_of_creation": "2020-12-02",
+    "registered_office_address": {
+      "address_line_1": "74 A High Street",
+      "address_line_2": "Wanstead",
+      "locality": "London",
+      "postal_code": "E11 2RJ",
+      "country": "England"
+    },
+    "sic_codes": [
+      "70229"
+    ]
+  },
+  {
+    "company_name": "DRY & CLEAN SERVICES LTD",
+    "company_number": "13061083",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13061083"
+    },
+    "date_of_creation": "2020-12-03",
+    "registered_office_address": {
+      "address_line_1": "167 Wanstead Park Road",
+      "locality": "Ilford",
+      "postal_code": "IG1 3TN",
+      "country": "England"
+    },
+    "sic_codes": [
+      "81222",
+      "81299",
+      "96010"
+    ]
+  },
+  {
+    "company_name": "WS TECHNOLOGY LTD",
+    "company_number": "13065948",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13065948"
+    },
+    "date_of_creation": "2020-12-06",
+    "registered_office_address": {
+      "address_line_1": "Cambridge House",
+      "address_line_2": "27 Cambridge Park",
+      "locality": "Wanstead",
+      "postal_code": "E11 2PU",
+      "region": "London",
+      "country": "England"
+    },
+    "sic_codes": [
+      "62090"
+    ]
+  },
+  {
+    "company_name": "MISS LAZY VEGAN LTD",
+    "company_number": "13066089",
+    "company_status": "active",
+    "company_type": "ltd",
+    "kind": "search-results#company",
+    "links": {
+      "company_profile": "/company/13066089"
+    },
+    "date_of_creation": "2020-12-06",
+    "registered_office_address": {
+      "address_line_1": "Wilfred House 1-3, Flat 2 High Street Wanstead",
+      "address_line_2": "Station Parade",
+      "locality": "London",
+      "postal_code": "E11 1QF",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "56101",
+      "56102"
+    ]
+  }
+]

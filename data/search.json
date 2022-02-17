@@ -1,0 +1,278 @@
+{
+  "kind": "search#all",
+  "start_index": 0,
+  "page_number": 1,
+  "items_per_page": 20,
+  "total_results": 9,
+  "items": [
+    {
+      "links": {
+        "self": "/company/06788749"
+      },
+      "description": "06788749 - Incorporated on 12 January 2009",
+      "kind": "searchresults#company",
+      "snippet": "",
+      "company_number": "06788749",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "title": "ONEFLOW LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2009-01-12",
+      "address": {
+        "locality": "Harpenden",
+        "postal_code": "AL5 3LG",
+        "premises": "2",
+        "region": "Hertfordshire",
+        "address_line_1": "Mayfield Close"
+      },
+      "company_type": "ltd",
+      "matches": {
+        "title": [
+          1,
+          7
+        ],
+        "snippet": []
+      },
+      "address_snippet": "2 Mayfield Close, Harpenden, Hertfordshire, AL5 3LG"
+    },
+    {
+      "company_status": "dissolved",
+      "date_of_cessation": "2022-02-08",
+      "date_of_creation": "2013-03-07",
+      "address": {
+        "country": "United Kingdom",
+        "address_line_1": "One St. Peter's Square",
+        "postal_code": "M2 3AE",
+        "premises": "C/O Kpmg Llp",
+        "locality": "Manchester"
+      },
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          7
+        ]
+      },
+      "address_snippet": "C/O Kpmg Llp, One St. Peter's Square, Manchester, United Kingdom, M2 3AE",
+      "company_type": "ltd",
+      "description": "08434259 - Dissolved on  8 February 2022",
+      "links": {
+        "self": "/company/08434259"
+      },
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "title": "ONEFLOW SYSTEMS LIMITED",
+      "kind": "searchresults#company",
+      "snippet": "",
+      "company_number": "08434259"
+    },
+    {
+      "matches": {
+        "title": [
+          1,
+          7
+        ],
+        "snippet": []
+      },
+      "address_snippet": "4  Devon Units Budlake Road, Marsh Barton Trading Estate, Exeter, England, EX2 8PY",
+      "company_type": "ltd",
+      "date_of_creation": "2014-09-03",
+      "company_status": "dissolved",
+      "date_of_cessation": "2019-07-30",
+      "address": {
+        "premises": "4 ",
+        "postal_code": "EX2 8PY",
+        "locality": "Exeter",
+        "country": "England",
+        "address_line_2": "Marsh Barton Trading Estate",
+        "address_line_1": "Devon Units Budlake Road"
+      },
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "title": "ONEFLOW TECHNOLOGIES LTD",
+      "kind": "searchresults#company",
+      "snippet": "",
+      "company_number": "09202391",
+      "links": {
+        "self": "/company/09202391"
+      },
+      "description": "09202391 - Dissolved on 30 July 2019"
+    },
+    {
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "title": "BLUE PROPELLOR LIMITED",
+      "kind": "searchresults#company",
+      "company_number": "08425662",
+      "snippet": "ONEFLOW SYSTEMS ",
+      "links": {
+        "self": "/company/08425662"
+      },
+      "description": "08425662 - Dissolved on 22 October 2013",
+      "matches": {
+        "snippet": [
+          1,
+          7
+        ]
+      },
+      "address_snippet": "34-40  High Street, Wanstead, London, United Kingdom, E11 2RJ",
+      "company_type": "ltd",
+      "date_of_cessation": "2013-10-22",
+      "company_status": "dissolved",
+      "date_of_creation": "2013-03-01",
+      "address": {
+        "country": "United Kingdom",
+        "address_line_1": "High Street",
+        "region": "London",
+        "premises": "34-40 ",
+        "postal_code": "E11 2RJ",
+        "locality": "Wanstead"
+      }
+    },
+    {
+      "company_type": "ltd",
+      "address_snippet": "Carpenter Court 1 Maple Road Bramhall, Stockport, Cheshire, SK7 2DH",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          7
+        ]
+      },
+      "address": {
+        "premises": "Carpenter Court 1 Maple Road",
+        "postal_code": "SK7 2DH",
+        "locality": "Stockport",
+        "address_line_1": "Bramhall",
+        "region": "Cheshire"
+      },
+      "company_status": "dissolved",
+      "date_of_creation": "2009-08-26",
+      "date_of_cessation": "2013-01-08",
+      "snippet": "",
+      "company_number": "07001511",
+      "kind": "searchresults#company",
+      "title": "ONEFLOW NORWAY LTD",
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "links": {
+        "self": "/company/07001511"
+      },
+      "description": "07001511 - Dissolved on  8 January 2013"
+    },
+    {
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "title": "ONE FLOWER ONE WORLD LIMITED",
+      "kind": "searchresults#company",
+      "company_number": "13728212",
+      "links": {
+        "self": "/company/13728212"
+      },
+      "description": "13728212 - Incorporated on  8 November 2021",
+      "address_snippet": "Chase Business Centre, 39-41 Chase Side, London, United Kingdom, N14 5BP",
+      "company_type": "ltd",
+      "company_status": "active",
+      "date_of_creation": "2021-11-08",
+      "address": {
+        "locality": "London",
+        "postal_code": "N14 5BP",
+        "premises": "Chase Business Centre",
+        "address_line_1": "39-41 Chase Side",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "description": "13537770 - Incorporated on 29 July 2021",
+      "links": {
+        "self": "/company/13537770"
+      },
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "title": "ONE FLOWERS LTD",
+      "kind": "searchresults#company",
+      "company_number": "13537770",
+      "company_status": "active",
+      "date_of_creation": "2021-07-29",
+      "address": {
+        "locality": "Bishop's Stortford",
+        "premises": "43",
+        "postal_code": "CM22 6FJ",
+        "address_line_2": "Elsenham",
+        "address_line_1": "Orchard Crescent",
+        "country": "England"
+      },
+      "address_snippet": "43 Orchard Crescent, Elsenham, Bishop's Stortford, England, CM22 6FJ",
+      "company_type": "ltd"
+    },
+    {
+      "title": "ONE FLOWER SHOP LTD",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "company_number": "13732657",
+      "kind": "searchresults#company",
+      "description": "13732657 - Incorporated on  9 November 2021",
+      "links": {
+        "self": "/company/13732657"
+      },
+      "address_snippet": "Unit 3b Berol House, 25 Ashley Road, Tottenham Hale, London, United Kingdom, N17 9LJ",
+      "company_type": "ltd",
+      "address": {
+        "region": "London",
+        "address_line_2": "25 Ashley Road",
+        "address_line_1": "Berol House",
+        "country": "United Kingdom",
+        "locality": "Tottenham Hale",
+        "postal_code": "N17 9LJ",
+        "premises": "Unit 3b"
+      },
+      "date_of_creation": "2021-11-09",
+      "company_status": "active"
+    },
+    {
+      "title": "ONE FLOWER QINGA LIMITED",
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "company_number": "11100541",
+      "kind": "searchresults#company",
+      "description": "11100541 - Dissolved on  3 March 2020",
+      "links": {
+        "self": "/company/11100541"
+      },
+      "address_snippet": "Fourth Floor, 3 Gower Street, London, England, WC1E 6HA",
+      "company_type": "ltd",
+      "address": {
+        "country": "England",
+        "address_line_1": "3 Gower Street",
+        "postal_code": "WC1E 6HA",
+        "premises": "Fourth Floor",
+        "locality": "London"
+      },
+      "date_of_creation": "2017-12-07",
+      "company_status": "dissolved",
+      "date_of_cessation": "2020-03-03"
+    }
+  ]
+}
+┌─────────┬──────────────┬─────────────┬────────────┬────────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────┐
+│ (index) │      0       │      1      │     2      │               3                │                                           4                                            │
+├─────────┼──────────────┼─────────────┼────────────┼────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
+│    0    │ '2009-01-12' │  'active'   │ '06788749' │       'ONEFLOW LIMITED'        │                 '2 Mayfield Close, Harpenden, Hertfordshire, AL5 3LG'                  │
+│    1    │ '2013-03-07' │ 'dissolved' │ '08434259' │   'ONEFLOW SYSTEMS LIMITED'    │       "C/O Kpmg Llp, One St. Peter's Square, Manchester, United Kingdom, M2 3AE"       │
+│    2    │ '2014-09-03' │ 'dissolved' │ '09202391' │   'ONEFLOW TECHNOLOGIES LTD'   │  '4  Devon Units Budlake Road, Marsh Barton Trading Estate, Exeter, England, EX2 8PY'  │
+│    3    │ '2013-03-01' │ 'dissolved' │ '08425662' │    'BLUE PROPELLOR LIMITED'    │            '34-40  High Street, Wanstead, London, United Kingdom, E11 2RJ'             │
+│    4    │ '2009-08-26' │ 'dissolved' │ '07001511' │      'ONEFLOW NORWAY LTD'      │         'Carpenter Court 1 Maple Road Bramhall, Stockport, Cheshire, SK7 2DH'          │
+│    5    │ '2021-11-08' │  'active'   │ '13728212' │ 'ONE FLOWER ONE WORLD LIMITED' │       'Chase Business Centre, 39-41 Chase Side, London, United Kingdom, N14 5BP'       │
+│    6    │ '2021-07-29' │  'active'   │ '13537770' │       'ONE FLOWERS LTD'        │         "43 Orchard Crescent, Elsenham, Bishop's Stortford, England, CM22 6FJ"         │
+│    7    │ '2021-11-09' │  'active'   │ '13732657' │     'ONE FLOWER SHOP LTD'      │ 'Unit 3b Berol House, 25 Ashley Road, Tottenham Hale, London, United Kingdom, N17 9LJ' │
+│    8    │ '2017-12-07' │ 'dissolved' │ '11100541' │   'ONE FLOWER QINGA LIMITED'   │               'Fourth Floor, 3 Gower Street, London, England, WC1E 6HA'                │
+└─────────┴──────────────┴─────────────┴────────────┴────────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘

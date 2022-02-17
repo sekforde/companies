@@ -1,0 +1,198 @@
+{
+  "resigned_count": 5,
+  "active_count": 0,
+  "kind": "officer-list",
+  "inactive_count": 2,
+  "etag": "e8b5aefe7b64b572996de29b83c11428c6ae696f",
+  "items": [
+    {
+      "name": "MORIN, Caroline Francoise",
+      "address": {
+        "address_line_2": "300 Thames Valley Park Drive",
+        "postal_code": "RG6 1PT",
+        "country": "United Kingdom",
+        "address_line_1": "Earley West",
+        "locality": "Reading",
+        "premises": "Hp Inc Uk Limited"
+      },
+      "appointed_on": "2020-02-14",
+      "officer_role": "director",
+      "country_of_residence": "England",
+      "links": {
+        "self": "/company/08434259/appointments/zfmaXNR0Dom8yA2vuBz2oDIXjJI",
+        "officer": {
+          "appointments": "/officers/-RXU7eLpFDL4rn5wyYDyaUZhxrU/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1971
+      },
+      "nationality": "French",
+      "occupation": "Finance Director"
+    },
+    {
+      "nationality": "American",
+      "date_of_birth": {
+        "year": 1971,
+        "month": 6
+      },
+      "occupation": "Director",
+      "name": "PREZZANO, David Neary",
+      "links": {
+        "self": "/company/08434259/appointments/ucQyl6sK7QrZbXNne_Fx11NgKKY",
+        "officer": {
+          "appointments": "/officers/N-HUem9sdU6-zYMFA_I7XHSVco4/appointments"
+        }
+      },
+      "country_of_residence": "England",
+      "officer_role": "director",
+      "appointed_on": "2021-05-01",
+      "address": {
+        "premises": "Earley West",
+        "postal_code": "RG6 1PT",
+        "locality": "Reading",
+        "address_line_1": "300 Thames Valley Park Drive",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "name": "BRASHER, George",
+      "resigned_on": "2021-05-01",
+      "appointed_on": "2019-07-10",
+      "address": {
+        "country": "United Kingdom",
+        "postal_code": "RG6 1PT",
+        "address_line_2": "300 Thames Valley Park Drive",
+        "premises": "Hp Inc Uk Limited",
+        "address_line_1": "Earley West",
+        "locality": "Reading"
+      },
+      "officer_role": "director",
+      "country_of_residence": "United Kingdom",
+      "links": {
+        "self": "/company/08434259/appointments/575qnhAdWObu1im5-Dhu-aIoDig",
+        "officer": {
+          "appointments": "/officers/KZRT1_xG6uQ8lH1XH0slulGJCpE/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1965
+      },
+      "nationality": "American",
+      "occupation": "Company Director"
+    },
+    {
+      "nationality": "British",
+      "date_of_birth": {
+        "month": 8,
+        "year": 1971
+      },
+      "occupation": "Company Director",
+      "resigned_on": "2019-07-10",
+      "name": "KNIGHTON, Christopher",
+      "links": {
+        "officer": {
+          "appointments": "/officers/6HSoGquFzBR54a2jHAQhOE1Jhjo/appointments"
+        },
+        "self": "/company/08434259/appointments/A6kxlklqzkhA-RzB417CHTvAC3Q"
+      },
+      "country_of_residence": "England",
+      "officer_role": "director",
+      "address": {
+        "country": "England",
+        "premises": "34-40",
+        "region": "London",
+        "locality": "Wanstead",
+        "postal_code": "E11 2RJ",
+        "address_line_1": "High Street"
+      },
+      "appointed_on": "2013-06-13"
+    },
+    {
+      "date_of_birth": {
+        "year": 1969,
+        "month": 12
+      },
+      "nationality": "British",
+      "occupation": "Company Director",
+      "name": "MCDOUGALL, Jo-Anne",
+      "resigned_on": "2020-02-14",
+      "address": {
+        "region": "Berkshire",
+        "country": "United Kingdom",
+        "premises": "1 Corner Mead",
+        "locality": "Cold Ash",
+        "postal_code": "RG18 9PY"
+      },
+      "appointed_on": "2019-07-10",
+      "links": {
+        "self": "/company/08434259/appointments/SrWh7dRn2DIVSP9Z1UgwkOGrSCs",
+        "officer": {
+          "appointments": "/officers/OjMvp4IEM1oO2nLs2432NNDFhv4/appointments"
+        }
+      },
+      "officer_role": "director",
+      "country_of_residence": "England"
+    },
+    {
+      "name": "PEELING, Gary Ian",
+      "resigned_on": "2019-02-22",
+      "appointed_on": "2013-06-13",
+      "address": {
+        "country": "United Kingdom",
+        "postal_code": "IG8 0TL",
+        "region": "Essex",
+        "locality": "Woodford Green",
+        "premises": "47b Mornington Road"
+      },
+      "links": {
+        "officer": {
+          "appointments": "/officers/i1WVaMZuY3JOYwioJrDw5wqyzvc/appointments"
+        },
+        "self": "/company/08434259/appointments/CN-k2ttc9_rGGpqfrNwnYM7zpZY"
+      },
+      "country_of_residence": "England",
+      "officer_role": "director",
+      "date_of_birth": {
+        "year": 1971,
+        "month": 4
+      },
+      "nationality": "British",
+      "occupation": "Company Director"
+    },
+    {
+      "links": {
+        "self": "/company/08434259/appointments/1y1A8wfqjUXKDbMUkgiM_4bAMgs",
+        "officer": {
+          "appointments": "/officers/QxCGs_myK-qrkTUNwDT0KqoFbHM/appointments"
+        }
+      },
+      "officer_role": "director",
+      "country_of_residence": "England",
+      "appointed_on": "2013-03-07",
+      "address": {
+        "premises": "7",
+        "address_line_1": "St Mary's Avenue",
+        "postal_code": "E11 2NR",
+        "country": "United Kingdom",
+        "locality": "London"
+      },
+      "name": "WATSON, Nigel John",
+      "resigned_on": "2019-07-10",
+      "occupation": "Company Director",
+      "nationality": "British",
+      "date_of_birth": {
+        "month": 9,
+        "year": 1970
+      }
+    }
+  ],
+  "start_index": 0,
+  "total_results": 7,
+  "links": {
+    "self": "/company/08434259/officers"
+  },
+  "items_per_page": 35
+}

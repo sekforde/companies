@@ -1,0 +1,123 @@
+{
+  "etag": "4cc7769827ce07a3bd32ea04cc8729704f89ac35",
+  "links": {
+    "self": "/company/11409535/officers"
+  },
+  "total_results": 4,
+  "items": [
+    {
+      "name": "HARRHY, Christine Annette",
+      "occupation": "Director",
+      "nationality": "Welsh",
+      "country_of_residence": "Wales",
+      "links": {
+        "self": "/company/11409535/appointments/4spYHIK8jyCqLLFVCr133rXCqw0",
+        "officer": {
+          "appointments": "/officers/3vm9Nmf5dsIp68gUMba__U5T4uQ/appointments"
+        }
+      },
+      "officer_role": "director",
+      "date_of_birth": {
+        "month": 1,
+        "year": 1957
+      },
+      "address": {
+        "address_line_1": "Bedwellty Road",
+        "country": "United Kingdom",
+        "locality": "Bargoed",
+        "premises": "93",
+        "address_line_2": "Aberbargoed",
+        "postal_code": "CF81 9AX",
+        "region": "Caerphilly"
+      },
+      "appointed_on": "2018-06-11"
+    },
+    {
+      "appointed_on": "2018-06-11",
+      "address": {
+        "address_line_1": "Bedwellty Road",
+        "country": "United Kingdom",
+        "region": "Caerphilly",
+        "postal_code": "CF81 9AX",
+        "locality": "Bargoed",
+        "address_line_2": "Aberbargoed",
+        "premises": "93"
+      },
+      "officer_role": "director",
+      "date_of_birth": {
+        "year": 1989,
+        "month": 12
+      },
+      "links": {
+        "officer": {
+          "appointments": "/officers/Ql-Ejfgcxz-CHcSxcT3L9jdW8yw/appointments"
+        },
+        "self": "/company/11409535/appointments/B36g-_RnwGsyY9eGXRheVGQT1Ps"
+      },
+      "country_of_residence": "Wales",
+      "nationality": "Welsh",
+      "occupation": "Director",
+      "name": "HARRHY, Craig Daniel"
+    },
+    {
+      "links": {
+        "officer": {
+          "appointments": "/officers/sBP1YjUpnW80yzIEUwsCs33ndwE/appointments"
+        },
+        "self": "/company/11409535/appointments/JHGnBR51xpUbxJ5x6gb6ejWr-l8"
+      },
+      "date_of_birth": {
+        "year": 1956,
+        "month": 5
+      },
+      "officer_role": "director",
+      "address": {
+        "premises": "93",
+        "address_line_2": "Aberbargoed",
+        "locality": "Bargoed",
+        "region": "Caerphilly",
+        "postal_code": "CF81 9AX",
+        "country": "United Kingdom",
+        "address_line_1": "Bedwellty Road"
+      },
+      "appointed_on": "2018-06-11",
+      "name": "HARRHY, Robert John",
+      "occupation": "Director",
+      "nationality": "Welsh",
+      "country_of_residence": "Wales"
+    },
+    {
+      "occupation": "Director",
+      "name": "POWELL, Liam",
+      "country_of_residence": "Wales",
+      "nationality": "Welsh",
+      "date_of_birth": {
+        "year": 1992,
+        "month": 2
+      },
+      "officer_role": "director",
+      "address": {
+        "premises": "93",
+        "address_line_2": "Aberbargoed",
+        "region": "Caerphilly",
+        "postal_code": "CF81 9AX",
+        "country": "United Kingdom",
+        "address_line_1": "Bedwellty Road",
+        "locality": "Bargoed"
+      },
+      "links": {
+        "officer": {
+          "appointments": "/officers/XAAjyTOa1YTbd0Rb8DDrAv65q_0/appointments"
+        },
+        "self": "/company/11409535/appointments/8cU5zHJFNdoU2GN0RvpDAL3tgLc"
+      },
+      "appointed_on": "2018-06-11"
+    }
+  ],
+  "active_count": 4,
+  "resigned_count": 0,
+  "start_index": 0,
+  "inactive_count": 0,
+  "kind": "officer-list",
+  "items_per_page": 35
+}
